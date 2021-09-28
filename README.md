@@ -14,4 +14,13 @@ We'll pass strings with varying formats, such as racecar, RaceCar, and race CAR 
 
 We'll also pass strings with special symbols, such as 2A3*3a2, 2A3 3a2, and 2_A3*3#A2.
 
-[Link to Solution File](https://github.com/shradhaagarwal01/FreeCodeCamp/blob/main/src/PalindromeChecker.js)
+[Link to Solution File](./src/PalindromeChecker.js)
+
+## Project 2
+### Roman Numeral Convertor
+
+Convert the given number into a roman numeral.
+
+All roman numerals answers should be provided in upper-case.
+
+[Link to Solution File](./src/RomanNumeralConverter.js)
